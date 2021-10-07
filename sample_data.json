@@ -1,0 +1,42 @@
+{
+  "1": {
+    "task_id": 1,
+    "task_name": "SayHello",
+    "description": "First task is to say hello",
+    "priority": 2,
+    "due_date": "2021-09-30",
+    "properties": {"created": "2021-09-30 00:00:00.000000", "last-modified": ""}
+  },
+  "2": {
+    "task_id": 2,
+    "task_name": "Buy broccoli",
+    "description": "I need to go buy broccoli for my lunch snack",
+    "priority": 5,
+    "due_date": "2021-12-30",
+    "properties": {"created": "2021-09-30 00:00:00.000000", "last-modified": ""}
+  },
+  "3": {
+    "task_id": 3,
+    "task_name": "Restart schedule",
+    "description": "Daily At 18:00 I need to restart the schedule",
+    "priority": 3,
+    "due_date": "",
+    "properties": {"created": "2021-09-30 00:00:00.000000", "last-modified": ""}
+  },
+  "4": {
+    "task_id": 4,
+    "task_name": "Sleep",
+    "description": "If I feel tired I need to go sleep",
+    "priority": 1,
+    "due_date": "",
+    "properties": {"created": "2021-09-30 00:00:00.000000", "last-modified": ""}
+  },
+  "5": {
+    "task_id": 5,
+    "task_name": "Eat",
+    "description": "It is important that I eat",
+    "priority": 1,
+    "due_date": "",
+    "properties": {"created": "2021-09-30T00:00:00.000000", "last-modified": ""}
+  }
+}
